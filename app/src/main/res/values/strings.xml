@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Balloon Burst</string>
+    <string name="Balloon">Balloon</string>
+    <string name="remaining">Remaining Time: </string>
+    <string name="score">Score: </string>
+    <string name="playerScore">Your Score: </string>
+    <string name="highScore">High Score: </string>
+    <string name="newHighScore">Congratulations! New High Score!</string>
+    <string name="gameOver">Game Over</string>
+</resources>
